@@ -1,9 +1,9 @@
 import React from 'react'; // 유무 무슨차이? => 원래 없었음
 import './app.css';
-import Habit from './components/habit';
+import Habits from './components/habits';
 
 function App() {
-  return <Habit />;
+  return <Habits />;
 }
 
 export default App;
